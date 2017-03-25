@@ -1,0 +1,5 @@
+org/udea/proint1/ms/producto_backend/dao/ProductDAO.class
+org/udea/proint1/ms/producto_backend/rest/MainController.class
+org/udea/proint1/ms/producto_backend/Application.class
+org/udea/proint1/ms/producto_backend/dto/Product.class
+org/udea/proint1/ms/producto_backend/rest/ProductRestController.class
